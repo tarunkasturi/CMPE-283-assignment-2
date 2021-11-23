@@ -1,7 +1,8 @@
 # CMPE-283-assignment-2
 
 Team Members:
-Harshit 
+Harshit bhoraskar (015218606) 
+Tarun Pradeep Kasturi (015349685)
 Q1:For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
 
 Tarun Pradeep Kasturi: Created and setup the environment in Windows using Oracle VM and also the Linux Ubuntu Build a kernal modules and established a copy of Linux Kernal I've discussed with Harshit about the MSRs which is to be read in the SDM. Modified some changes in the cmpe 283-1.c file by addiing logic funions for the output of various MSRs Implemented and tested the output which we've got with the sample output shared in the canvas.
